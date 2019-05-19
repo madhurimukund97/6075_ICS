@@ -53,8 +53,6 @@ int main()
    	++idata;
       exits = 0;
    }
-
-   //sorting now
    for(int isortouter = 1; isortouter < idictinsert; isortouter++){
       for(int isort = 0; isort < idictinsert - isortouter; isort++) {
 
